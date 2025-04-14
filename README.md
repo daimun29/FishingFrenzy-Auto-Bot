@@ -3,11 +3,13 @@
 <div align="center">
   <img src="scxvbs.jpg" alt="Fishing Frenzy Bot Preview" width="600">
 
-  <img src="https://img.shields.io/badge/UI-Blessed-blue?style=for-the-badge&logo=xterm" alt="Blessed UI">
-  <img src="https://img.shields.io/badge/WebSocket-Enabled-4A90E2?style=for-the-badge&logo=websocket" alt="WebSocket Enabled">
-  <a href="https://fishingfrenzy.co?code=62H8PM">
-    <img src="https://img.shields.io/badge/Fishing%20Frenzy-Join%20Now-brightgreen?style=for-the-badge&logo=gamepad" alt="Fishing Frenzy Referral">
-  </a>
+  <div>
+    <img src="https://img.shields.io/badge/UI-Blessed-blue?style=for-the-badge&logo=xterm" alt="Blessed UI">
+    <img src="https://img.shields.io/badge/WebSocket-Enabled-4A90E2?style=for-the-badge&logo=websocket" alt="WebSocket Enabled">
+    <a href="https://fishingfrenzy.co?code=62H8PM">
+      <img src="https://img.shields.io/badge/Fishing%20Frenzy-Join%20Now-brightgreen?style=for-the-badge&logo=gamepad" alt="Fishing Frenzy Referral">
+    </a>
+  </div>
 </div>
 
 ## 📂 Struktur Proyek
