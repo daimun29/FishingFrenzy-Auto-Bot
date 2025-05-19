@@ -80,7 +80,7 @@ Fishing Frenzy Blessed Bot is an advanced, interactive terminal-based automation
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/SCxVBS/FishingFrenzy-Auto-Bot.git
+git clone https://github.com/daimun29/FishingFrenzy-Auto-Bot.git
 cd FishingFrenzy-Auto-Bot
 ```
 
